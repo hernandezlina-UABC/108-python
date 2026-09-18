@@ -10,7 +10,7 @@ tasks = ["do homework",
          "pay water bill", 
          "shop vitamins"]
 print(tasks)
-print(len(agents))
+print(len(tasks))
 
 # Accessing items by index
 print(f"you need to {(tasks[2])} before you {(tasks[4])}")
